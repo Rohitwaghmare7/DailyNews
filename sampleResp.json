@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MLB.com"
+      },
+      "author": "MLB.com",
+      "title": "Mike Trout on trade rumors, Angels' offseason & more - MLB.com",
+      "description": null,
+      "url": "https://www.mlb.com/news/mike-trout-isn-t-looking-to-be-traded-right-now",
+      "urlToImage": null,
+      "publishedAt": "2024-02-20T05:03:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Borys Kit",
+      "title": "Agency Shake-Up: Bill Weinstein Out as Verve CEO - Hollywood Reporter",
+      "description": "Weinstein founded the literary agency with Bryan Besser and Adam Levine in 2010 and had been in his leadership post since January 2023.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/agency-shake-up-bill-weinstein-verve-1235830190/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/Bill-Weinstein-2022-PC-Randall-Slavin.jpg?w=1024",
+      "publishedAt": "2024-02-20T04:55:36Z",
+      "content": "Literary agency Verve has parted ways with CEO Bill Weinstein.\r\n“We thank Bill as a co-founder and for his 14 years of service and  wish him nothing but success in his future “ Verve leadership said … [+1317 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Myron Medcalf",
+      "title": "A&M-Commerce, UIW players get in big brawl during postgame handshake - ESPN",
+      "description": "A massive postgame brawl broke out following Texas A&M-Commerce's 76-72 win over Incarnate Word on Monday as both teams starting shaking hands.",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/39561066/incarnate-word-commerce-players-get-big-brawl-postgame-handshake",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0610%2Fr706955_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-02-20T04:11:00Z",
+      "content": "A massive postgame brawl broke out following Texas A&amp;M-Commerce's76-72 win over Incarnate Word on Monday as both teams starting shaking hands.\r\nIt's unclear what sparked the handshake line fight,… [+1018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daytona Beach News-Journal"
+      },
+      "author": "Ken Willis, Ryan Pritt, Chris Boyle, Chris Vinel",
+      "title": "Daytona 500 recap: William Byron claims Daytona 500 victory - Daytona Beach News-Journal",
+      "description": "The 2024 Daytona 500 and the Xfinity Series' United Rentals 300 were both washed out over the weekend. Instead, NASCAR opens its season on Monday.",
+      "url": "https://www.news-journalonline.com/story/sports/nascar/2024/02/19/daytona-500-updates-nascar-race-analysis-daytona-international-speedway-xfinity-series/72651665007/",
+      "urlToImage": "https://www.news-journalonline.com/gcdn/authoring/authoring-images/2024/02/20/NDNJ/72666844007-sunday-xfinity-5.jpg?crop=4620,2599,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2024-02-20T03:03:04Z",
+      "content": "<ul><li>The Daytona 500 and United Rentals 300 were postponed because of weather. The 500 is set to start about 4:30 p.m., while the Daytona Xfinity race was moved back to 9 p.m.</li><li>Dwayne \"The … [+14912 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "US circulates rival UN resolution for temporary Gaza cease-fire - POLITICO",
+      "description": "The United States rejected an Arab-backed proposal.",
+      "url": "https://www.politico.com/news/2024/02/19/un-resolution-cease-fire-gaza-00142140",
+      "urlToImage": "https://static.politico.com/8a/df/7e73e2a646b9bab2e73d4e5fd295/israel-palestinians-46004.jpg",
+      "publishedAt": "2024-02-20T02:47:03Z",
+      "content": "The proposed resolution says Israels planned major ground offensive into the southern Gaza city of Rafah, where some 1.5 million Palestinians have sought safety, should not proceed under current circ… [+3447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Julian Assange: Wikileaks founder in last-ditch bid to avoid US extradition - BBC.com",
+      "description": "The Wikileaks founder is trying to overturn an extradition order signed in 2022 by then UK home secretary Priti Patel.",
+      "url": "https://www.bbc.com/news/uk-68343097",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/358D/production/_132690731_jassange.jpg",
+      "publishedAt": "2024-02-20T02:41:38Z",
+      "content": "By Dominic CascianiHome and legal correspondent\r\nAssange is wanted by the American authorities over documents leaked in 2010 and 2011 (file photo)\r\nLawyers for Julian Assange are launching what could… [+2620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Crew abandon British-registered cargo ship off Yemen after Houthi attack - BBC.com",
+      "description": "The UK-registered Rubymar, which is carrying \"very dangerous\" fertiliser, has been taking on water.",
+      "url": "https://www.bbc.com/news/world-middle-east-68337027",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FEEA/production/_132685256_0dab03d5fdba2f2ccbda1de9be29c48be565852a.jpg",
+      "publishedAt": "2024-02-20T02:37:24Z",
+      "content": "By David Gritten &amp; Joshua CheethamBBC News\r\nThe Houthis said they had targeted the the Belize-flagged, British-registered cargo ship Rubymar (file photo)\r\nThe crew of a Belize-flagged, British-re… [+6772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Alexei Navalny's body to be held for two weeks for 'chemical analysis', family told - BBC.com",
+      "description": "The wife of the dead Putin critic says Russian authorities are waiting until nerve agent traces disappear.",
+      "url": "https://www.bbc.com/news/world-europe-68344582",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/902D/production/_132690963_denmarkre.jpg",
+      "publishedAt": "2024-02-20T02:36:00Z",
+      "content": "Flowers outside the Russian embassy in Copenhagen - just one of the cities where tributes have been paid\r\nThe family of Alexei Navalny, the Putin critic who died in a Russian prison, have reportedly … [+3260 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "JOHN HANNA",
+      "title": "Burnsville shooting: Minnesota suspect wasn't allowed to have guns - The Associated Press",
+      "description": "Court records show that a man who died after fatally shooting two police officers and a firefighter in a wooded suburban-Minneapolis neighborhood wasn’t legally allowed to have guns. He also was entangled in a yearslong dispute over the custody and financial …",
+      "url": "https://apnews.com/article/officers-firefighter-killed-burnsville-minnesota-shooter-gooden-c6e27aa84e577c27d5e44f5f2c9c4004",
+      "urlToImage": "https://dims.apnews.com/dims4/default/366c213/2147483647/strip/true/crop/5733x3225+0+299/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2Fab%2F0a138b3e54e8ab598888f28d9049%2F60c4caea33dd434e8a98bf4d9d48a180",
+      "publishedAt": "2024-02-20T02:15:00Z",
+      "content": "A man who died after fatally shooting two police officers and a firefighter in a wooded Minneapolis-area neighborhood wasnt legally allowed to have guns after a previous assault conviction and was en… [+3599 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Greg Wehner",
+      "title": "NASA seeks participants for second year-long Mars mission simulation - Fox News",
+      "description": "NASA is looking for the next four-person crew to spend more than a year inside a Mars simulator located in Texas, to study aspects of a mission to the red planet.",
+      "url": "https://www.foxnews.com/science/nasa-seeks-participants-second-year-long-mars-mission-simulation",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/Chapea-crew-enters-simulator.jpg",
+      "publishedAt": "2024-02-20T01:41:00Z",
+      "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+3692 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "Trump's reaction to Navalny death: Haley blasts absent Putin critique - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/02/19/trump-alexei-navalny-comment",
+      "urlToImage": null,
+      "publishedAt": "2024-02-20T01:33:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Clement Tan",
+      "title": "China boosts property funding with first cut in key loan rate since June - CNBC",
+      "description": "The five-year benchmark loan rate — the peg for most mortgages — was cut by 25 basis points, according to a statement Tuesday from the People's Bank of China.",
+      "url": "https://www.cnbc.com/2024/02/20/china-cuts-benchmark-5-year-lending-rate-for-the-first-time-since-june.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107375330-1708391996643-gettyimages-1666899074-The_Peoples_Bank_of_China_Lowered_The_Reserve_Requirement_Ratio.jpeg?v=1708392497&w=1920&h=1080",
+      "publishedAt": "2024-02-20T01:25:00Z",
+      "content": "China's lenders cut the country's benchmark five-year loan prime rate for the first time since June, extending Beijing's efforts to revive the country's anemic property market.\r\nThe Chinese central b… [+2061 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "By Christian Edwards, Antoinette Radford, <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, <a href=\"/profiles/elise-hammond\">Elise Hammond</a> and <a href=\"/profiles/maureen-chowdhury\">Maureen Chowdhury</a>, CNN",
+      "title": "February 19, 2024 - Russia-Ukraine news - CNN",
+      "description": "The Russian flag has been raised in several parts of Avdiivka in the eastern Donetsk region after Ukrainian forces beat a hasty retreat from the town they've been defending for a decade.",
+      "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-02-19-24/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240215174407-07-week-in-photos-0215-super-tease.jpg",
+      "publishedAt": "2024-02-20T01:18:45Z",
+      "content": "US House Speaker Mike Johnson is facing international criticism over his lack of swift action on Ukraine aid, which is ratcheting up pressure to make a critical decision that will not only have massi… [+1748 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Miranda Nazzaro",
+      "title": "Kevin O’Leary says he will no longer invest in ‘loser’ New York after Trump verdict - The Hill",
+      "description": "“Shark Tank” investor Kevin O’Leary ripped into what he called “loser” New York and vowed to no longer invest in the state, when asked about a New York court’s $355 million verdict against former President Trump last week.  Trump, his business and his top exe…",
+      "url": "https://thehill.com/business/4477608-kevin-oleary-says-he-will-no-longer-invest-in-loser-new-york-after-trump-verdict/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2021/04/ca_olearykevin_040521getty.jpg?w=1280",
+      "publishedAt": "2024-02-20T01:17:00Z",
+      "content": "Skip to content\r\n“Shark Tank” investor Kevin O’Leary ripped into what he called “loser” New York and vowed to no longer invest in the state, when asked about a New York court’s $355 million verdict a… [+2614 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "BHP says Australian support for nickel miners 'may not be enough' to save industry - Financial Times",
+      "description": "Group’s first-half net profit dropped almost 90% after metal’s price collapsed",
+      "url": "https://www.ft.com/content/4973a326-e0fe-407a-8506-e887eec27ef1",
+      "urlToImage": null,
+      "publishedAt": "2024-02-20T00:43:24Z",
+      "content": "Then $199 for 12 months. Insight and expertise in your hands with the iconic FT print edition, delivered Monday to Saturday."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "New AI tool can create videos from text | February 20, 2024 - CNN 10",
+      "description": "Today on CNN 10, take a look at footage from Sora, a new AI model from the makers of ChatGPT who claim they can create artificially generated videos that loo...",
+      "url": "https://www.youtube.com/watch?v=DeYK5zDGbzI",
+      "urlToImage": "https://i.ytimg.com/vi/DeYK5zDGbzI/maxresdefault.jpg",
+      "publishedAt": "2024-02-20T00:30:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "AnnaMaria Andriotis, Lauren Thomas",
+      "title": "Capital One Is Buying Discover Financial - WSJ - The Wall Street Journal",
+      "description": "The deal combines two of the largest credit-card companies in the U.S.",
+      "url": "https://www.wsj.com/finance/capital-one-is-buying-discover-financial-sources-say-a7c43dd2",
+      "urlToImage": "https://images.wsj.net/im-927452/social",
+      "publishedAt": "2024-02-20T00:29:00Z",
+      "content": "Capital One said it will buy Discover Financial Services for more than $35 billion, a deal that will marry two of the largest credit-card companies in the U.S.\r\nUnder the terms of the all-stock deal,… [+408 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Joseph Choi",
+      "title": "Largest multicountry COVID study links vaccines to potential adverse effects - The Hill",
+      "description": "A new study on COVID-19 vaccines that looked at nearly 100 million vaccinated individuals affirmed the vaccines’ previously observed links to increased risks for certain adverse effects including myocarditis and Guillain-Barré syndrome. The study was conducte…",
+      "url": "https://thehill.com/policy/healthcare/4477406-largest-multi-country-covid-study-links-vaccines-to-potential-adverse-effects/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/12/COVID-booster.png?w=1280",
+      "publishedAt": "2024-02-20T00:23:00Z",
+      "content": "A new study on COVID-19 vaccines that looked at nearly 100 million vaccinated individuals affirmed the vaccines’ previously observed links to increased risks for certain adverse effects including myo… [+2929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Alex Oliveira",
+      "title": "Massachusetts school requests National Guard to rein in 'violent' students: 'Sex and drugs in classrooms' - New York Post ",
+      "description": "Members of a Massachusetts high school committee sent a letter asking their mayor to deploy National Guard troops to rein in violent chaos on campus — spanning from daily brawls in the halls,…",
+      "url": "https://nypost.com/2024/02/19/us-news/massachusetts-school-asks-governor-to-dispatch-national-guard-to-rein-in-violent-students-sex-and-drugs-in-classrooms/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/2024-regarding-request-national-guard-76814581.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-02-20T00:18:00Z",
+      "content": "Members of a Massachusetts high school committee sent a letter asking their mayor to deploy National Guard troops to rein in violent chaos on campus — spanning from daily brawls in the halls, to freq… [+3744 chars]"
+    }
+  ]
+}
